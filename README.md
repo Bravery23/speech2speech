@@ -8,7 +8,7 @@ This project is a simple **Speech-to-Speech** assistant for Vietnamese language 
 
 ---
 
-## 📦 Nội dung
+## 📦 Content
 
 - 🎬 [Video Demo](https://drive.google.com/file/d/1ch4VySBBoOVNcGiAUpLhX0HGRW2CLFSk/view?usp=sharing)
-- 📄 [Báo Cáo Đồ Án](NLP_DL_Assignment_PTITHCM-3.pdf)
+- 📄 [Project Report](NLP_DL_Assignment_PTITHCM-3.pdf)
